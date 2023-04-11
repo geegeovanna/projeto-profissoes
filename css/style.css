@@ -1,0 +1,345 @@
+body{
+    background-color: #000000;
+}
+
+.wrapper{
+    width: 100;
+    height: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+.carrossel{
+    width: 50%;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+
+.fundo{
+    height: 200vh;
+    color: #ffffff;
+    text-align: center;
+
+}
+
+.fundo2{
+    height: 100vh;
+    color: #ffffff;
+    text-align: center;
+    margin-top:-1035px;
+}
+
+.fundo3{
+    height: 100vh;
+    color: #ffffff;
+    text-align: center;
+    margin-top:3200px;
+    
+}
+
+.fundo4{
+    position: absolute;
+    top: 50%;
+    width:15%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 3px;
+    padding-bottom: 15%;
+    margin-top:75px;
+    margin-left: 280px;
+    
+    
+}
+
+.fundo5{
+position: absolute;
+top: 50%;
+width:-5%;
+left: 50%;
+transform: translate(-50%,50%);
+border-radius: 2px;
+padding-bottom: 15%;
+padding: 7%;
+margin-top:85px;
+margin-left: -560px;
+}
+
+.fundo6{
+    position: absolute;
+    top: 50%;
+    width:15%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 3px;
+    padding-bottom: 15%;
+    margin-top:215px;
+    margin-left: 498px;
+}
+
+.fundo7{
+    position: absolute;
+    top: 50%;
+    width:15%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 3px;
+    padding-bottom: 15%;
+    margin-top:210px;
+    margin-left: 8px;
+}
+
+.fundo8{
+    position: absolute;
+    top: 50%;
+    width:15%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 3px;
+    padding-bottom: 15%;
+    margin-top:610px;
+    margin-left: -15px;
+}
+
+.fundo9{
+    position: absolute;
+    top: 50%;
+    width:15%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 3px;
+    padding-bottom: 15%;
+    margin-top:1010px;
+    margin-left: -15px;
+}
+
+.fundo10{
+    position: absolute;
+    top: 50%;
+    width:15%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 3px;
+    padding-bottom: 15%;
+    margin-top:1410px;
+    margin-left: -15px;
+}
+
+
+.btn1{
+    position: absolute;
+    background-color:#001D3D;
+    color:#000;
+    top: 50%;
+    width:60%;
+    height:60;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 20px;
+    padding-bottom: 25%;
+    margin-top:60px;
+    text-size-adjust:auto;
+     
+ 
+}
+
+.btnn{
+    position: absolute;
+    background-color:#FFFFFF ;
+    color:#000000;
+    top: 50%;
+    width:15%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 15px;
+    padding-bottom: 15%;
+    margin-top:213px;
+    margin-left: 280px;
+    
+    
+}
+
+.btn3{
+    position: absolute;
+    background-color:#002E58;
+    color:#000;
+    top: 50%;
+    width:60%;
+    left: 50%;
+    padding-bottom: 25%;
+    transform: translate(-50%,50%);
+    border-radius: 20px;
+    margin-top:500px;
+    text-size-adjust:auto;
+ 
+}
+
+.btnnn{
+    position: absolute;
+    background-color:#FFFFFF;
+    color:#000000;
+    top: 63%;
+    width:15%;
+    transform: translate(-50%,50%);
+    border-radius: 15px;
+    padding-bottom: 15%;
+    padding: 7%;
+    margin-top:550px;
+    margin-left: -280px;
+}
+
+.btn4{
+    position: absolute;
+    background-color:#002E58;
+    color:#000000;
+    top: 50%;
+    width:60%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 20px;
+    padding-bottom: 25%;
+    margin-top:940px;
+ 
+}
+
+.btnnnn{
+    position: absolute;
+    background-color:#FFFFFF ;
+    color:#000000;
+    top: 50%;
+    width:15%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 15px;
+    padding-bottom: 15%;
+    margin-top:1097px;
+    margin-left: 280px;
+}
+
+.btn5{
+    position: absolute;
+    background-color:#265473;
+    color:#000000;
+    top: 50%;
+    width:60%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 20px;
+    padding-bottom: 25%;
+    margin-top:1400px;
+ 
+}
+
+.btnnnnn{
+    position: absolute;
+    background-color:#FFFFFF ;
+    color:#000000;
+    top: 50%;
+    width:15%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 15px;
+    padding-bottom: 15%;
+    margin-top:1520px;
+    margin-left: 300px;
+}
+
+.btn6{
+    position: absolute;
+    background-color:#216C8B;
+    color:#000000;
+    top: 50%;
+    width:60%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 20px;
+    padding-bottom: 25%;
+    margin-top:1800px;
+ 
+}
+
+.btnnnnnn{
+    position: absolute;
+    background-color:#FFFFFF ;
+    color:#000000;
+    top: 50%;
+    width:15%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 15px;
+    padding-bottom: 15%;
+    margin-top:1915px;
+    margin-left: 280px;
+}
+
+.btn7{
+    position: absolute;
+    background-color:#006FAA;
+    color:#000000;
+    top: 50%;
+    width:60%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 20px;
+    padding-bottom: 25%;
+    margin-top:2200px;
+ 
+}
+
+.btnnnnnnn{
+    position: absolute;
+    background-color:#FFFFFF ;
+    color:#000000;
+    top: 50%;
+    width:15%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 15px;
+    padding-bottom: 15%;
+    margin-top:2315px;
+    margin-left: 280px;
+}
+
+.btn8{
+    position: absolute;
+    background-color:#0486B0;
+    color:#000000;
+    top: 50%;
+    width:60%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 20px;
+    padding-bottom: 25%;
+    margin-top:2600px;
+ 
+}
+
+.btnnnnnnnn{
+    position: absolute;
+    background-color:#FFFFFF ;
+    color:#000000;
+    top: 50%;
+    width:15%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border-radius: 15px;
+    padding-bottom: 15%;
+    margin-top:2715px;
+    margin-left: 280px;
+}
+.produto-container{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+@media screen and (max-width:768px){
+    .produto-container{
+        width: 100%;
+        flex-direction:column;
+    }
+}
