@@ -1,345 +1,320 @@
 body{
-    background-color: #000000;
+    background-color: #ffffff;
+    }
+    
+#barra{
+    background-color: #0D3B66;
 }
-
-.wrapper{
+    .wrapper{
     width: 100;
     height: 100%;
-    left: 0;
-    top: 0;
-    position: absolute;
-}
-
-.carrossel{
-    width: 50%;
-    display: block; 
-    margin-left: auto;
-    margin-right: auto;
+    }
+    
+    .carrossel{
+    width: 100;
+    height: 100%;
+    margin-top: 70px;
+    }
     
     
-}
-
-
-.fundo{
-    height: 200vh;
-    color: #ffffff;
-    text-align: center;
-
-}
-
-.fundo2{
-    height: 100vh;
-    color: #ffffff;
-    text-align: center;
-    margin-top:-1035px;
-}
-
-.fundo3{
-    height: 100vh;
-    color: #ffffff;
-    text-align: center;
-    margin-top:3200px;
-    
-}
-
-.fundo4{
-    position: absolute;
-    top: 50%;
-    width:15%;
-    left: 50%;
-    transform: translate(-50%,50%);
-    border-radius: 3px;
-    padding-bottom: 15%;
-    margin-top:75px;
-    margin-left: 280px;
-    
-    
-}
-
-.fundo5{
-position: absolute;
-top: 50%;
-width:-5%;
-left: 50%;
-transform: translate(-50%,50%);
-border-radius: 2px;
-padding-bottom: 15%;
-padding: 7%;
-margin-top:85px;
-margin-left: -560px;
-}
-
-.fundo6{
-    position: absolute;
-    top: 50%;
-    width:15%;
-    left: 50%;
-    transform: translate(-50%,50%);
-    border-radius: 3px;
-    padding-bottom: 15%;
-    margin-top:215px;
-    margin-left: 498px;
-}
-
-.fundo7{
-    position: absolute;
-    top: 50%;
-    width:15%;
-    left: 50%;
-    transform: translate(-50%,50%);
-    border-radius: 3px;
-    padding-bottom: 15%;
-    margin-top:210px;
-    margin-left: 8px;
-}
-
-.fundo8{
-    position: absolute;
-    top: 50%;
-    width:15%;
-    left: 50%;
-    transform: translate(-50%,50%);
-    border-radius: 3px;
-    padding-bottom: 15%;
-    margin-top:610px;
-    margin-left: -15px;
-}
-
-.fundo9{
-    position: absolute;
-    top: 50%;
-    width:15%;
-    left: 50%;
-    transform: translate(-50%,50%);
-    border-radius: 3px;
-    padding-bottom: 15%;
-    margin-top:1010px;
-    margin-left: -15px;
-}
-
-.fundo10{
-    position: absolute;
-    top: 50%;
-    width:15%;
-    left: 50%;
-    transform: translate(-50%,50%);
-    border-radius: 3px;
-    padding-bottom: 15%;
-    margin-top:1410px;
-    margin-left: -15px;
-}
-
-
-.btn1{
+    #medicina{
     position: absolute;
     background-color:#001D3D;
     color:#000;
-    top: 50%;
-    width:60%;
-    height:60;
+    top: 1300px;
+    width:1500px;
+    height: 700px;
     left: 50%;
     transform: translate(-50%,50%);
     border-radius: 20px;
     padding-bottom: 25%;
-    margin-top:60px;
     text-size-adjust:auto;
-     
- 
-}
-
-.btnn{
+    text-align: center;
+    }
+    
+    #medicina2{
     position: absolute;
     background-color:#FFFFFF ;
     color:#000000;
-    top: 50%;
-    width:15%;
-    left: 50%;
+    top: 300px;
+    width:350px;
+    height: 500px;
+    left: 45%;
     transform: translate(-50%,50%);
-    border-radius: 15px;
+    border-radius: 20px;
     padding-bottom: 15%;
-    margin-top:213px;
-    margin-left: 280px;
+    margin-top:1230px;
+    margin-left: 350px;
+    }
     
-    
-}
-
-.btn3{
+    #psicologia{
     position: absolute;
     background-color:#002E58;
     color:#000;
-    top: 50%;
-    width:60%;
+    top: 2100px;
+    width:1500px;
+    height: 700px;
     left: 50%;
     padding-bottom: 25%;
     transform: translate(-50%,50%);
     border-radius: 20px;
-    margin-top:500px;
     text-size-adjust:auto;
- 
-}
-
-.btnnn{
+    text-align: center;
+    }
+    
+    #psicologia2{
     position: absolute;
     background-color:#FFFFFF;
     color:#000000;
-    top: 63%;
-    width:15%;
+    top: 2100px;
+    width:350px;
+    height: 500px;
+    left: -10%;
     transform: translate(-50%,50%);
-    border-radius: 15px;
+    border-radius: 20px;
     padding-bottom: 15%;
     padding: 7%;
-    margin-top:550px;
-    margin-left: -280px;
-}
+    margin-top:250px;
+    margin-left: 350px;
+    }
 
-.btn4{
+    #psi{
+        
+        margin-left: -80px;
+        margin-top:-105px;
+        
+    }
+    
+    #terapia{
     position: absolute;
     background-color:#002E58;
     color:#000000;
-    top: 50%;
-    width:60%;
+    top: 1950px;
+    width:1500px;
+    height: 700px;
     left: 50%;
     transform: translate(-50%,50%);
     border-radius: 20px;
     padding-bottom: 25%;
     margin-top:940px;
- 
-}
-
-.btnnnn{
+    text-align: center;
+    
+    }
+    
+    #terapia2{
     position: absolute;
     background-color:#FFFFFF ;
     color:#000000;
-    top: 50%;
-    width:15%;
-    left: 50%;
+    width:350px;
+    height: 500px;
+    left: 45%;
     transform: translate(-50%,50%);
     border-radius: 15px;
     padding-bottom: 15%;
-    margin-top:1097px;
-    margin-left: 280px;
-}
-
-.btn5{
+    margin-top:2370px;
+    margin-left: 350px;
+    }
+    
+    #estetica{
     position: absolute;
     background-color:#265473;
     color:#000000;
-    top: 50%;
-    width:60%;
+    top: 2300px;
+    width:1500px;
+    height: 700px;
     left: 50%;
     transform: translate(-50%,50%);
     border-radius: 20px;
     padding-bottom: 25%;
     margin-top:1400px;
- 
-}
-
-.btnnnnn{
+    text-align: center;
+    
+    }
+    
+    #estetica2{
     position: absolute;
     background-color:#FFFFFF ;
     color:#000000;
-    top: 50%;
-    width:15%;
-    left: 50%;
+    width:350px;
+    left: -10%;
+    height: 500px;
     transform: translate(-50%,50%);
     border-radius: 15px;
     padding-bottom: 15%;
-    margin-top:1520px;
-    margin-left: 300px;
-}
-
-.btn6{
+    margin-top:3170px;
+    margin-left: 350px;
+    }
+    
+    #nutricao{
     position: absolute;
     background-color:#216C8B;
     color:#000000;
-    top: 50%;
-    width:60%;
+    top: 2705px;
+    width:1500px;
+    height: 700px;
     left: 50%;
     transform: translate(-50%,50%);
     border-radius: 20px;
     padding-bottom: 25%;
     margin-top:1800px;
- 
-}
-
-.btnnnnnn{
+    text-align: center;
+    }
+    
+    #nutricao2{
     position: absolute;
     background-color:#FFFFFF ;
     color:#000000;
-    top: 50%;
-    width:15%;
-    left: 50%;
+    width:350px;
+    height: 500px;
+    left: 45%;
     transform: translate(-50%,50%);
     border-radius: 15px;
     padding-bottom: 15%;
-    margin-top:1915px;
-    margin-left: 280px;
-}
-
-.btn7{
+    margin-top:3975px;
+    margin-left: 350px;
+    }
+    
+    #enfermagem{
     position: absolute;
     background-color:#006FAA;
     color:#000000;
-    top: 50%;
-    width:60%;
+    top: 3130px;
+    width:1500px;
+    height: 700px;
     left: 50%;
     transform: translate(-50%,50%);
     border-radius: 20px;
     padding-bottom: 25%;
     margin-top:2200px;
- 
-}
-
-.btnnnnnnn{
+    }
+    
+    #enfermagem2{
     position: absolute;
     background-color:#FFFFFF ;
     color:#000000;
-    top: 50%;
-    width:15%;
-    left: 50%;
+    width:350px;
+    height: 500px;
+    left: -10%;
     transform: translate(-50%,50%);
     border-radius: 15px;
     padding-bottom: 15%;
-    margin-top:2315px;
-    margin-left: 280px;
-}
-
-.btn8{
+    margin-top:4808px;
+    margin-left: 350px;
+    }
+    
+    #odontologia{
     position: absolute;
     background-color:#0486B0;
     color:#000000;
-    top: 50%;
-    width:60%;
+    top: 3550px;
+    height: 700px;
+    width:1500px;
     left: 50%;
     transform: translate(-50%,50%);
     border-radius: 20px;
     padding-bottom: 25%;
     margin-top:2600px;
- 
-}
-
-.btnnnnnnnn{
+    text-align: center;
+    }
+    
+    #odontologia2{
     position: absolute;
     background-color:#FFFFFF ;
     color:#000000;
-    top: 50%;
-    width:15%;
-    left: 50%;
+    width:350px;
+    height: 500px;
+    left: 45%;
     transform: translate(-50%,50%);
     border-radius: 15px;
     padding-bottom: 15%;
-    margin-top:2715px;
-    margin-left: 280px;
-}
-.produto-container{
+    margin-top:5640px;
+    margin-left: 350px;
+    }
+
+    #laboratorio{
+
+    margin-top:6640px ;
+    margin-left: 30px;
+    height: 700px;
+    width:1500px;
+    }
+    .produto-container{
     display: flex;
     width: 100%;
     justify-content: space-around;
-}
-
-@media screen and (max-width:768px){
-    .produto-container{
-        width: 100%;
-        flex-direction:column;
     }
-}
+    
+    @media screen and (max-width:768px){
+    .produto-container{
+    width: 100%;
+    flex-direction:column;
+    }
+    }
+
+    #cienciassaude{
+    position: absolute;
+    background-color:#002E58;
+    width:1500px;
+    height: 700px;
+    border-radius: 20px;
+    left: 20px;
+    top: 880px;
+    }
+
+    #basetexto{
+    position: absolute;
+    width: 619px;
+    height: 442px;
+    left: 32px;
+    top: 980px;
+
+    background: #023E8A;
+    border-radius: 40px;
+
+    }
+    
+    .ciencias{
+    position: absolute;
+    width: 1350px;
+    height: 695px;
+    left: 35px;
+    top: 840px;
+    margin-left: 200px;
+    
+    background: #00296B;
+    border-radius: 50px;
+    }
+
+    #tema{
+    top: 1010px;
+    left: 50%;
+    margin-left: 600px;
+    width:350px;
+    height: 500px;
+    }
+
+    .titulo{
+     position: absolute;
+     width: 1167px;
+    height: 136px;
+    left: -250px;
+    top: 812px;
+
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 16px;
+    margin-left: 500px;
+
+    color: #000000;
+
+    }
+
+    #footer{
+        top: 9597px;
+        margin-left: -20px;
+        width: 100%;
+        height: auto;
+        position: absolute;
+    }
